@@ -3,7 +3,6 @@
 
 Using command line
 
-Using githubdasdasdsad desktop
-
+Using github desktop
 
 ajisdjioasjod
